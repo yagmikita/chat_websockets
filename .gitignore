@@ -1,0 +1,7 @@
+# Common files #
+INSTALL.txt
+LICENSE.txt
+README.txt
+
+# Skipping vendors, thanks to composer.json #
+vendors
